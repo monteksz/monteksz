@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **Sometime i use AI to help fix the code**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
