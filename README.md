@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monteksz&label=Profile%20views&color=0e75b6&style=flat" alt="monteksz" /> </p>
 
-- 🌱 I’m currently learning **How to make a bot**
+- 🌱 I’m currently learning **How to make a bot.**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python.**
 
-- ⚡ Fun fact **Sometimes i use AI to fix the code**
+- ⚡ Fun fact **Sometimes i use AI to fix the code.**
 
 <p align="left">
 </p>
