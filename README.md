@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monteksz</h1>
-<h3 align="center">I Like Python</h3>
+<h3 align="center">I Love Yotsuba Nakano</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952vbcz4dowh6a92qoesodaic89wk99inoewdr6y0n5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
