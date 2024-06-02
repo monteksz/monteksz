@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python**
 
-- ⚡ Fun fact **Sometime i use AI to fix the code**
+- ⚡ Fun fact **Sometimes i use AI to fix the code**
 
 <p align="left">
 </p>
