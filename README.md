@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python.**
 
-- ⚡ Fun fact **Sometimes i use AI to fix the code.**
+- ⚡ Fun fact **i love yotsuba nakano more than anything.**
 
 <p align="left">
 </p>
