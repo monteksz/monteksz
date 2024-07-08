@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Monteksz</h1>
-<h3 align="center">I Love Yotsuba Nakano</h3>
+<h1 align="center">Hi 👋, Mizan Ghazy</h1>
+<h3 align="center">WELCOME</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952vbcz4dowh6a92qoesodaic89wk99inoewdr6y0n5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **How to make a bot.**
 
 - 💬 Ask me about **Python.**
-
-- ⚡ Fun fact **i love yotsuba nakano more than anything.**
 
 <p align="left">
 </p>
