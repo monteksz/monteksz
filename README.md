@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Mizan Ghazy</h1>
+<h1 align="center">Hi 👋, Monteksz</h1>
 <h3 align="center">WELCOME</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952vbcz4dowh6a92qoesodaic89wk99inoewdr6y0n5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
