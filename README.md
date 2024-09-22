@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monteksz&label=Profile%20views&color=0e75b6&style=flat" alt="monteksz" /> </p>
 
-- 🌱 I’m currently learning **How to make a bot.**
+- 🌱 I’m currently learning **Anything.**
 
 - 💬 Ask me about **Python.**
 
