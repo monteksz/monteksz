@@ -21,8 +21,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=azure,gcp,dotnet,firebase,docker,vscode,github,git,mysql" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,php,postman,react,sqlite,mongodb,nextjs,ruby" /><br>
+    <img src="https://skillicons.dev/icons?i=azure,gcp,dotnet,firebase,docker,vscode,github,git,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,php,nextjs,ruby,react,mysql,sqlite,mongodb" /><br>
 </div>
 
 <br/>
