@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **MongoDB, Ruby**
 
-💬 Ask me about **Node.js, Python, PHP or Anything**
+💬 Ask me about **JavaScript, Python, PHP or Anything**
 
  </div>
 
