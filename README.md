@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **MongoDB, Ruby**
+ 🌱 I’m currently learning **Rust and Ruby**
 
 💬 Ask me about **JavaScript, Python, PHP or Anything**
 
