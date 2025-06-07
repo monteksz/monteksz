@@ -10,15 +10,15 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Rust and Ruby**
+ I’m currently learning **Rust and Ruby**
 
-💬 Ask me about **JavaScript, Python, PHP or Anything**
+Ask me about **JavaScript, Python, PHP or Anything**
 
  </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=azure,gcp,dotnet,firebase,docker,vscode,github,git,postman" />
@@ -26,19 +26,10 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/monteksz/monteksz/blob/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/>
-</div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 <br>
 <div align=center>
   <img width=330 src="https://github-readme-stats-salesp07.vercel.app/api?username=monteksz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
